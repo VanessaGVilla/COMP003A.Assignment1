@@ -37,6 +37,12 @@ namespace COMP003A.Assignment1
             Console.WriteLine("I have three teenagers");
             Console.WriteLine("I'm neither an introvert or extrovert");
             Console.WriteLine("I prefer scary movies over romantic ones");
+            Console.WriteLine("The Godfather movies are among my favorite.");
+            Console.WriteLine("Except for number 3, they should have stopped at 2.");
+            Console.WriteLine("Action movies are also a favorite.");
+            Console.WriteLine("John Wick and The Bourne movies are outstading.");
+            Console.WriteLine("I enjoy reading historical fiction.");
+            Console.WriteLine("I just started wearing glasses this past year.");
             Console.WriteLine("")
 
         }
