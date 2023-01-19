@@ -37,6 +37,7 @@ namespace COMP003A.Assignment1
             Console.WriteLine("I have three teenagers");
             Console.WriteLine("I'm neither an introvert or extrovert");
             Console.WriteLine("I prefer scary movies over romantic ones");
+            Console.WriteLine("")
 
         }
     }
