@@ -43,8 +43,9 @@ namespace COMP003A.Assignment1
             Console.WriteLine("John Wick and The Bourne movies are outstading.");
             Console.WriteLine("I enjoy reading historical fiction.");
             Console.WriteLine("I just started wearing glasses this past year.");
-            Console.WriteLine("")
-
+            Console.WriteLine("Realism art began in France yet my favorite is an Italian painter. ")
+            Console.WriteLine(" Caravaggio is the name of the Italian painter I prefer over French realism.")
+            Console.WriteLine(" Caravaggio's style of extreme dark and light contrast is among my favorite art.")
         }
     }
 }
