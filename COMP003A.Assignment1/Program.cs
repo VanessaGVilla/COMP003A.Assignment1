@@ -43,9 +43,14 @@ namespace COMP003A.Assignment1
             Console.WriteLine("John Wick and The Bourne movies are outstading.");
             Console.WriteLine("I enjoy reading historical fiction.");
             Console.WriteLine("I just started wearing glasses this past year.");
-            Console.WriteLine("Realism art began in France yet my favorite is an Italian painter. ")
-            Console.WriteLine(" Caravaggio is the name of the Italian painter I prefer over French realism.")
-            Console.WriteLine(" Caravaggio's style of extreme dark and light contrast is among my favorite art.")
+            Console.WriteLine("Realism art began in France yet my favorite is an Italian painter. ");
+            Console.WriteLine("Caravaggio is the name of the Italian painter I prefer over French realism.");
+            Console.WriteLine("Caravaggio's style of extreme dark and light contrast is among my favorite art.");
+            Console.WriteLine("Favorite food is Baja style Mexican.");
+            Console.WriteLine("Corn tortillas made well are better than flour tortillas.");
+            Console.WriteLine("I only like flour tortillas with certain food.");
+            Console.WriteLine("Burritos are not my favorite.");
+            Console.WriteLine("I only eat burritos if it's for breakfast.");
         }
     }
 }
