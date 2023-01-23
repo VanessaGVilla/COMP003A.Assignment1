@@ -50,7 +50,14 @@ namespace COMP003A.Assignment1
             Console.WriteLine("Corn tortillas made well are better than flour tortillas.");
             Console.WriteLine("I only like flour tortillas with certain food.");
             Console.WriteLine("Burritos are not my favorite.");
-            Console.WriteLine("I only eat burritos if it's for breakfast.");
+            Console.WriteLine("I only eat burritos if it's for breakfast.");Console.WriteLine("
+            Console.WriteLine("I'm not a fan of Michael Jordan.");
+            Console.WriteLine("I'm a fan of Allen Iverson.");
+            Console.WriteLine("I'm a fan of Klay Thompson.");
+           Console.WriteLine("I'm a fan of Stephen Curry.";
+           Console.WriteLine("I'm not a fan of James Harden.");
+           Console.WriteLine("I feel Harden stat pads at the free throw line.");
+           Console.WriteLine("
         }
     }
 }
