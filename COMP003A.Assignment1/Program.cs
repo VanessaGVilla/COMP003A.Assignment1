@@ -75,6 +75,29 @@ namespace COMP003A.Assignment1
             Console.WriteLine("I've read all of the Harry Potter books.");                 
            Console.WriteLine("I've also seen all of the HP movies.");
            Console.WriteLine("The Conjuring is one of my top 5 horror movies.");
+           Console.WriteLine("Insidious is also on my top 5 list.");
+           Console.WriteLine("Popcorn is one of my favorite snacks.");
+           Console.WriteLine("I like to add Tapatillo hot sauce to my popcorn.");
+           Console.WriteLine("I prefer Kit Kat over a Snickers bar.");  
+          Console.WriteLine("I prefer chocolate over caramel.");
+          Console.WriteLine("I do not like strawberry ice cream.");  
+          Console.WriteLine("Everyone at my house loves strawberry ice cream.");
+          Console.WriteLine("Oatmeal chocolate chip cookies rule.");
+          Console.WriteLine("Oatmeal raisin cookies are disgusting.");
+         Console.WriteLine("The first car I owned had no power steering.");
+         Console.WriteLine("I'm a big fan of sandwiches.");
+          Console.WriteLine("Turkey club is my go-to if ordering sandwiches.");                   
+         Console.WriteLine("Never liked pickles as a kid, and as an adult they still suck.");   
+         Console.WriteLine("I surprised my 15 year old daughter with concert tickets to see SZA.")
+         Console.WriteLine("We're both big fans of her music and the concert will be in Oakland.");
+        Console.WriteLine("I texted my daughter a screenshot of the tickets.");
+         Console.WriteLine("I vid recorded her reaction once she saw the text.");                   
+         Console.WriteLine("I did not post the vid to my social media.");
+        Console.WriteLine("Lola is the name of our oldest dog.")                     
+        Console.WriteLine("She came to our door 11 years ago, starved and scared.");
+        Console.WriteLine("I decided to keep her, and she's family now.");
+       Console.WriteLine("Best steak I've had was at Fleming's steakhouse.");
+         Console.WriteLine("Last podcast I listened to was Something Was Wrong.");                    
                              
         }
     }
