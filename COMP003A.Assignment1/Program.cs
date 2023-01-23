@@ -50,14 +50,32 @@ namespace COMP003A.Assignment1
             Console.WriteLine("Corn tortillas made well are better than flour tortillas.");
             Console.WriteLine("I only like flour tortillas with certain food.");
             Console.WriteLine("Burritos are not my favorite.");
-            Console.WriteLine("I only eat burritos if it's for breakfast.");Console.WriteLine("
+            Console.WriteLine("I only eat burritos if it's for breakfast.");
             Console.WriteLine("I'm not a fan of Michael Jordan.");
             Console.WriteLine("I'm a fan of Allen Iverson.");
             Console.WriteLine("I'm a fan of Klay Thompson.");
            Console.WriteLine("I'm a fan of Stephen Curry.";
            Console.WriteLine("I'm not a fan of James Harden.");
            Console.WriteLine("I feel Harden stat pads at the free throw line.");
-           Console.WriteLine("
+           Console.WriteLine("I feel CP3 is a cry baby");
+           Console.WriteLine("Damian Lillard is my favorite player");
+           Console.WriteLine("I am a Warrior's fan");
+           Console.WriteLine("Draymond Green is underrated despite having 4 rings");
+           Console.WriteLine("Never knew Ja Morant was a twiter warrior until the Warriors won the Finals");
+           Console.WriteLine("Still a fan of KD even though he has burner accounts");
+           Console.WriteLine("Favorite 90's basketball player is Dennis Rodman");
+           Console.WriteLine("I do not like the Celtics");
+           Console.WriteLine("I stopped watching football once the SD Chargers moved to LA");
+           Console.WriteLine("LaDainian Tomlinson is my favorite running back.");
+           Console.WriteLine("Marshall Faulk is my second favorite RB.");
+           Console.WriteLine("Drew Brees is my favorite quarter back.");
+            Console.WriteLine("Tom Brady is the most overrated QB of all time.");  
+           Console.WriteLine("Tom Brady fans like to forget about spygate.");     
+            Console.WriteLine("I've never seen Lord of the Rings.");
+            Console.WriteLine("I've read all of the Harry Potter books.");                 
+           Console.WriteLine("I've also seen all of the HP movies.");
+           Console.WriteLine("The Conjuring is one of my top 5 horror movies.");
+                             
         }
     }
 }
